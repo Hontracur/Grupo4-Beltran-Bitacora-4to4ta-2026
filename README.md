@@ -1,2 +1,3 @@
 # Grupo4-Beltran-Bitacora-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+Corregí el código de la bomba en tinkercad, agregando un borrador en la tecla "B" de la keypad 4x4 y también agregamos la función para que se agreguen 10 segundos cada vez que respondes bien.
+14:22 => Estamos preparando para hacer maqueta que nos pidio el profe para que funcione el proyecto
